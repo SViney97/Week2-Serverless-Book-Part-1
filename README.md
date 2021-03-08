@@ -1,4 +1,5 @@
 # FirebaseSfApp
+![week2serverlesspart1](https://user-images.githubusercontent.com/58524678/110345254-47ffef80-8026-11eb-9604-0d1c608e204f.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
